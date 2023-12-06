@@ -1,2 +1,2 @@
 # symmetrical-goggles
-Dzień 
+Dzień dzisiejszy 
